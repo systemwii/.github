@@ -10,6 +10,6 @@ all systemwii projects are communal, meaning there is no owner, and executive de
 
 my intention is for systemwii projects to be maintained openly, with all discussions on their GitHub repositories or in a public Discord's public channels. all code that's added to them should be reviewed, DevkitPPC-compliant (without any weird build steps), and relatively free from technical debt (grassroots rewrites or refactors are preferred to wholesale imports of monoliths)
 
-succession policy: in case i remain the only owner of this organisation and am uncontactable for 3 months, i authorise @xflak and @dacotaco, or any nominated [github successor](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/maintaining-ownership-continuity-of-your-personal-accounts-repositories), to administer the organisation as owner
+succession policy: in case i remain the only owner of this organisation and am uncontactable for 3 months, i authorise @xflak, or any nominated [github successor](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/maintaining-ownership-continuity-of-your-personal-accounts-repositories), to administer the organisation as owner
 
 – @pyorot (a.k.a. shoutplenty)
